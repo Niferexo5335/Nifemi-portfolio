@@ -1,0 +1,17 @@
+# Project Name
+
+A responsive personal portfolio website showcasing skills, projects, experience, and contact information.
+
+## Features
+
+- **Responsive Design**: Fully responsive layout for desktop, tablet, and mobile devices.
+- **Navigation Bar**: Fixed navigation bar with a hamburger menu for smaller screens.
+- **Hero Section**: Eye-catching hero section with a background image and introductory text.
+- **About Section**: Detailed information about the individual, including personal info and an image.
+- **Projects Section**: Grid layout showcasing projects with descriptions.
+- **Skills Section**: Skill bars highlighting technical expertise.
+- **Experience Section**: Timeline-style layout for professional experience.
+- **Contact Form**: Functional contact form with validation.
+- **Footer**: Footer with additional links and copyright information.
+
+## Folder Structure
